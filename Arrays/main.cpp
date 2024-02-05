@@ -15,7 +15,7 @@ int main()
 
 	cout << "Hello Arrays" << endl;
 	const int SIZE = 5;
-	int arr[SIZE] = { 3, 5, 8 };
+	int arr[SIZE] = {3, 5, 8};
 
 	cout << int() << endl;
 
@@ -28,7 +28,7 @@ int main()
 	{
 		cout << arr[i] << "\t";
 	}
-	cout << endl; \
+	cout << endl;
 
-		return 0;
+	return 0;
 }
